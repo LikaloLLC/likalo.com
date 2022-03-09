@@ -1,0 +1,21 @@
+        <li class="li-dd v-sm">
+          <button class="li-a" data-toggle="Services">{% trans %}Services{% endtrans %}</button>
+          <div id="Products" class="ui-tgl" role="dropdown" aria-hidden="true">
+            <ul>
+              <li>
+                <a class="li-hdr" href="/{{ locale }}">{% trans %}Quality Assurance{% endtrans %}</a>
+                <span>{% trans %}Full cycle QA services for all stages of your application development{% endtrans %}</span>
+              </li>
+              <li><a href="{{ locale }}/pricing/">{% trans %}Full Stack Development{% endtrans %}</a>
+              </li>
+
+            </ul>
+          </div>
+        </li>
+
+        <li class="v-sm"><a href="{{ locale }}/pricing/">{% trans %}Pricing{% endtrans %}</a></li>
+
+        <span class="spacer"></span>
+        <li class="v-sm"><a href="https://help.docsie.io">{% trans %}Case Studies{% endtrans %}</a></li>
+
+        <li class="v-sm"><a onclick="Calendly.initPopupWidget({url: 'https://calendly.com/docsie-io/demo-call'});return false;">{% trans %}Book Demo{% endtrans %}</a></li>

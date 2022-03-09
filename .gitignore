@@ -1,0 +1,10 @@
+venv
+node_modules
+.idea
+.pyc
+__pycache__
+__pycache__/*
+jinja.md
+!src/jinja.md
+!src/blog/index.html
+blog/settings.yaml

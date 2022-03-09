@@ -1,0 +1,1104 @@
+# Japanese (Japan) translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-06-09 21:18-0400\n"
+"PO-Revision-Date: 2020-06-09 21:19-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja_JP <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"X-Generator: smartCAT.ai\n"
+
+#: src/_base.html:76
+msgid "Skip to content"
+msgstr "コンテンツにスキップ"
+
+#: src/_base.html:90
+msgid "Products"
+msgstr "製品"
+
+#: src/_base.html:94 src/_base.html:125
+msgid "Docsie"
+msgstr "Docsie"
+
+#: src/_base.html:95 src/_base.html:111
+msgid "Smart documentation authoring &amp; publishing platform"
+msgstr "スマートな文書作成および公開プラットホーム"
+
+#: src/_base.html:98 src/_base.html:140
+msgid "Vocally"
+msgstr "Vocally"
+
+#: src/_base.html:99
+msgid "User friendly feedback collection and management tool"
+msgstr "ユーザーフレンドリーなフィードバック収集および管理ツール"
+
+#: src/_base.html:101
+msgid "Product Pricing"
+msgstr "製品価格"
+
+#: src/_base.html:106
+msgid "Pricing"
+msgstr "価格"
+
+#: src/_base.html:110
+msgid "Self-Service Documentation"
+msgstr "自動文書作成サービス"
+
+#: src/_base.html:114 src/self-writing-documentation/pricing/index.html:155
+msgid "Self-Writing Documentation"
+msgstr "自動文書作成"
+
+#: src/_base.html:115
+msgid ""
+"AI-enabled documentation writing service that creates, translates, and "
+"manages product documentation for you."
+msgstr "AI技術を搭載した文書作成サービスで、ユーザーに代わって製品文書を作成、翻訳、管理します。"
+
+#: src/_base.html:122
+msgid "Resources"
+msgstr "リソース"
+
+#: src/_base.html:127
+msgid "User-guide"
+msgstr "利用者用ガイド"
+
+#: src/_base.html:128
+msgid "Learn how our easy &amp; intuitive documentation authoring tools work"
+msgstr "直感的で使いやすい文書作成ツールの使い方を学びましょう"
+
+#: src/_base.html:135
+msgid "Customizations"
+msgstr "カスタマイズ機能"
+
+#: src/_base.html:136
+msgid "Learn how to customize Docsie docs to follow your own style and branding"
+msgstr "独自のブランドとスタイルに合わせてDocsieの文書をカスタマイズする方法を学びましょう"
+
+#: src/_base.html:142
+msgid "Getting started"
+msgstr "基本機能"
+
+#: src/_base.html:143
+msgid "Discover our simple &amp; straight-fowrward way to manage user feedeback"
+msgstr "シンプルかつ直接的な方法でユーザーフィードバックを管理します"
+
+#: src/_base.html:147
+msgid "Make vocally a part of your ecosystem"
+msgstr "Vocallyを自分のエコシステムの一部にしましょう"
+
+#: src/_base.html:151
+msgid "Integrate your tools with vocally"
+msgstr "お使いのツールをVocallyと統合しましょう"
+
+#: src/_base.html:155
+msgid "Set-up vocally for the first time"
+msgstr "初めてVocallyをセットアップする場合"
+
+#: src/_base.html:160
+msgid "Support "
+msgstr "サポート"
+
+#: src/_base.html:161
+msgid "Sign-in"
+msgstr "サインイン"
+
+#: src/_base.html:182
+msgid "Products:"
+msgstr "製品："
+
+#: src/_base.html:185
+msgid "Docsie Manager"
+msgstr "Docsieマネージャー"
+
+#: src/_base.html:188
+msgid "Self Writing Documentation"
+msgstr "自動文書作成"
+
+#: src/_base.html:193
+msgid "Docsie Vocally"
+msgstr "Docsie Vocally"
+
+#: src/_base.html:196
+msgid "Markdown Editor"
+msgstr "メモエディター"
+
+#: src/_base.html:205
+msgid "Features:"
+msgstr "機能："
+
+#: src/_base.html:209
+msgid "Gather Feedback"
+msgstr "フィードバックを収集"
+
+#: src/_base.html:229
+msgid "Dynamic Software Documentation"
+msgstr "動的なソフトウェア文書"
+
+#: src/_base.html:236
+msgid "Resources:"
+msgstr "リソース："
+
+#: src/_base.html:245
+msgid "Docs"
+msgstr "文書"
+
+#: src/_base.html:248
+msgid "Release Notes"
+msgstr "リリースノート"
+
+#: src/_base.html:251
+msgid "Status Page"
+msgstr "ステータスページ"
+
+#: src/_base.html:258
+msgid "Company:"
+msgstr "企業："
+
+#: src/_base.html:261 src/self-writing-documentation/pricing/index.html:74
+#: src/self-writing-documentation/pricing/index.html:216
+#: src/self-writing-documentation/pricing/index.html:217
+#: src/self-writing-documentation/pricing/index.html:218
+#: src/self-writing-documentation/pricing/index.html:246
+#: src/self-writing-documentation/pricing/index.html:247
+#: src/self-writing-documentation/pricing/index.html:248
+#: src/self-writing-documentation/pricing/index.html:333
+msgid "Book a Demo"
+msgstr "デモを予約"
+
+#: src/_base.html:264
+msgid "Home"
+msgstr "ホーム"
+
+#: src/_base.html:267
+msgid "Careers"
+msgstr "キャリア"
+
+#: src/_base.html:270
+msgid "Press and Media"
+msgstr "マスメディア"
+
+#: src/_base.html:273
+msgid "Privacy policy"
+msgstr "プライバシーポリシー"
+
+#: src/_base.html:276
+msgid "Terms of service"
+msgstr "利用規約"
+
+#: src/_base.html:279
+msgid "Cookie Policy"
+msgstr "クッキーポリシー"
+
+#: src/_base.html:282
+msgid "Investors"
+msgstr "投資家"
+
+#: src/_base.html:289
+msgid "Made in Canada with love by <a href=\"https://www.likalo.com\">Docsie Team"
+msgstr "カナダの<a href=\"https://www.likalo.com\">Docsieチームが愛を込めて作成"
+
+#: src/_collision_2020_form.html:9
+msgid "See it in Action "
+msgstr "実際に使ってみましょう"
+
+#: src/_collision_2020_form.html:11 src/_form.html:11
+msgid " Already using Docsie? <a href=\"https://app.docsie.io/login/\">Sign-in. "
+msgstr "既にDocsieをご利用ですか？<a href=\"https://app.docsie.io/login/\">サインインしてください。"
+
+#: src/_form.html:6
+msgid " Enter your email "
+msgstr "メールアドレスを入力してください"
+
+#: src/_form.html:9
+msgid " See it in Action "
+msgstr "実際に使ってみましょう"
+
+#: src/index.html:40
+msgid "Create documentation that your customers love."
+msgstr "顧客が気に入る文書を作成しましょう。"
+
+#: src/index.html:41
+msgid ""
+"Save time and retain customers with easy-to-maintain documentation that "
+"simplifies\n"
+"            the way your team does docs."
+msgstr "ユーザーのチームが文書を簡単に処理できる維持しやすい文書を作成することで、\n            時間を節約し、顧客を維持できます。"
+
+#: src/index.html:48
+msgid "Write Better Product Documentation"
+msgstr "品質の高い製品文書を作成"
+
+#: src/index.html:61
+msgid "Organize documentation"
+msgstr "文書を整理"
+
+#: src/index.html:64
+msgid "Find everything on the shelves"
+msgstr "シェルフで全てを管理"
+
+#: src/index.html:67
+msgid "Manage translations and versions"
+msgstr "翻訳文書とバージョンを管理"
+
+#: src/collision_2020/index.html:46 src/index.html:70
+msgid "Gather actionable feedback"
+msgstr "実用的なフィードバックを収集"
+
+#: src/index.html:73
+msgid "Publish to your website"
+msgstr "ウェブサイトに公開"
+
+#: src/collision_2020/discovery_call/success/index.html:86 src/index.html:75
+#: src/index.html:81 src/index.html:144 src/index.html:158 src/index.html:172
+#: src/index.html:191 src/index.html:218
+#: src/publish_documentation/index.html:81
+#: src/self-writing-documentation/index.html:73
+#: src/self-writing-documentation/index.html:79
+#: src/self-writing-documentation/index.html:140
+#: src/self-writing-documentation/index.html:154
+#: src/self-writing-documentation/index.html:187
+msgid "Learn More"
+msgstr "詳細"
+
+#: src/index.html:89 src/self-writing-documentation/index.html:87
+msgid "Unified docs bring companies together"
+msgstr "文書を一元管理して、会社を一つに"
+
+#: src/index.html:91 src/self-writing-documentation/index.html:89
+msgid ""
+"Businesses save time with Docsie by simplifying their\n"
+"                product documentation workflow and reducing reliance on "
+"multiple documentation tools."
+msgstr "Docsieなら、製品文書作成のワークフローを簡素化し、\n                複数の文書作成ツールへの依存を減らすことで、時間を節約できます。"
+
+#: src/index.html:105 src/self-writing-documentation/index.html:103
+msgid "Customized Documentation Hubs"
+msgstr "カスタマイズされた文書ハブ"
+
+#: src/index.html:110
+msgid ""
+"Use Docsie Manager to easily create and publish custom\n"
+"                product documentation\n"
+"                hubs that mirror your brands look and feel."
+msgstr "Docsieマネージャーなら、ブランドのイメージを反映した\n                カスタムの製品文書ハブを\n                簡単に作成・公開できます。"
+
+#: src/index.html:121 src/self-writing-documentation/index.html:117
+msgid "You are in good company"
+msgstr "信頼できる会社"
+
+#: src/index.html:122 src/self-writing-documentation/index.html:118
+msgid ""
+"Teams of all sizes trust Docsie to quickly create and manage their\n"
+"              internal and external product\n"
+"              documentation."
+msgstr "あらゆる規模のチームがDocsieを使用し、\n             社内外の製品文書を迅速に作成および管理\n              しています。"
+
+#: src/index.html:126
+msgid "Trusted by over 5000 business and technology users."
+msgstr "5000以上の企業やテクノロジーユーザーから信頼されています。"
+
+#: src/index.html:129 src/self-writing-documentation/index.html:125
+msgid "1000+ business documentation portals published."
+msgstr "1000以上のビジネス文書ポータルが公開されています。"
+
+#: src/index.html:135 src/self-writing-documentation/index.html:131
+msgid "Here is what people are saying:"
+msgstr "ユーザーの評価："
+
+#: src/index.html:139 src/self-writing-documentation/index.html:135
+msgid ""
+"Docsie is very intuitive for the whole team to grasp quickly. My team "
+"uses it as the primary documentation management platform now."
+msgstr "Docsieは非常に直観的なので、チーム全体がすぐに使い方を理解できます。私のチームは現在、Docsieを主な文書管理プラットホームとして利用しています。"
+
+#: src/index.html:153 src/self-writing-documentation/index.html:149
+msgid ""
+"Their platform is straightforward to use, and they have fantastic "
+"customer service whenever I need help!"
+msgstr "使いやすいプラットフォームです。Docsieの優れたカスタマーサービスは、助けが必要な時にいつでもサポートしてくれます！"
+
+#: src/index.html:167 src/self-writing-documentation/index.html:163
+msgid ""
+"Docsie helped me reduce repetitive work required to create and maintain "
+"multiple versioned docs."
+msgstr "Docsieは、複数バージョンの文書を作成・管理するのに必要な反復作業を減らすのに役立ちました。"
+
+#: src/index.html:182 src/self-writing-documentation/index.html:178
+msgid "Improve the quality of your product documentation"
+msgstr "製品文書の品質を向上"
+
+#: src/collision_2020/discovery_call/success/index.html:55 src/index.html:187
+#: src/self-writing-documentation/index.html:183
+msgid "The ultimate training manual template guide in 2020"
+msgstr "訓練用マニュアルの最終テンプレートガイド（2020年版）"
+
+#: src/index.html:200 src/self-writing-documentation/index.html:196
+msgid "GatsbyJS as a blog"
+msgstr "GatsbyJS（ブログ）"
+
+#: src/collision_2020/discovery_call/success/index.html:58
+#: src/collision_2020/discovery_call/success/index.html:71
+#: src/collision_2020/discovery_call/success/index.html:85 src/index.html:203
+#: src/index.html:217 src/self-writing-documentation/index.html:186
+#: src/self-writing-documentation/index.html:199
+msgid "Blog"
+msgstr "ブログ"
+
+#: src/index.html:205
+msgid ""
+"Learn\n"
+"                    More"
+msgstr "詳\n                    細"
+
+#: src/index.html:214 src/self-writing-documentation/index.html:210
+msgid "Hosting Docsie on GitHub"
+msgstr "GitHubでのDocsieのホスティング"
+
+#: src/index.html:228 src/self-writing-documentation/index.html:224
+msgid "Let's write better documentation together"
+msgstr "弊社のサービスで質の高い文書を作成しましょう"
+
+#: src/collaboration_software/index.html:2
+msgid "Software Documentation "
+msgstr "ソフトウェア文書"
+
+#: src/collaboration_software/index.html:5
+#: src/collaboration_software/index.html:6
+#: src/collaboration_software/index.html:14
+#: src/collaboration_software/index.html:22
+#: src/collaboration_software/index.html:40
+msgid "Collaboration software that simplifies the way you create documentation."
+msgstr "文書の作成方法を簡素化する協調ソフトウェア。"
+
+#: src/collaboration_software/index.html:8
+#: src/collaboration_software/index.html:16
+msgid ""
+"Create beautiful embeddable software docs that adapt to your customer's "
+"language, location and preference."
+msgstr "顧客の言語、場所、好みに合わせて、レイアウトが美しく、埋め込み可能なソフトウェア文書を作成できます。"
+
+#: src/collaboration_software/index.html:27
+msgid ""
+"Create beautiful embeddable software docs that adapt to your customer's "
+"language, location and preference. "
+msgstr "顧客の言語、場所、好みに合わせて、レイアウトが美しく、埋め込み可能なソフトウェア文書を作成できます。"
+
+#: src/collaboration_software/index.html:41
+msgid ""
+"Create beautiful embeddable software docs that adapt to your customer's "
+"language,\n"
+"            location and preference."
+msgstr "顧客の言語、場所、好みに合わせて、レイアウトが美しく、埋め込み可能な\n            ソフトウェア文書を作成できます。"
+
+#: src/collaboration_software/index.html:48 src/collision_2020/index.html:75
+#: src/docsie_manager/index.html:46
+msgid "Manage documentation on the fly."
+msgstr "臨機応変に素早く文書を管理できます。"
+
+#: src/collaboration_software/index.html:53
+msgid " Effectively collaborate with internal and external teams."
+msgstr "社内外のチームと効果的に協力して取り組めます。"
+
+#: src/collaboration_software/index.html:56 src/docsie_manager/index.html:60
+msgid " Discuss your documentation with built-in chat."
+msgstr "内蔵のチャット機能を使用して、文書について意見を交わすことができます。"
+
+#: src/collaboration_software/index.html:59 src/collision_2020/index.html:86
+msgid "Manage documentation for multiple products with ease."
+msgstr "複数の製品文書を簡単に管理できます。"
+
+#: src/collaboration_software/index.html:62 src/collision_2020/index.html:89
+#: src/docsie_manager/index.html:54
+msgid "Maintain multiple versions and translations of documentation."
+msgstr "複数バージョンの文書と翻訳文書を維持できます。"
+
+#: src/collaboration_software/index.html:95 src/collision_2020/index.html:114
+#: src/docsie_manager/index.html:91
+msgid "Real solution for Enterprise Documentation"
+msgstr "真の企業文書作成ソリューション"
+
+#: src/collaboration_software/index.html:96
+msgid ""
+"Docsie manager is build with entreprise docs in mind, so whether you have"
+" 1 product or 100 products.\n"
+"                  Docsie manager got you covered."
+msgstr "Docsieマネージャーは企業のドキュメンテーションを念頭に作成されているので、1個でも100個の製品にでも対応できます。\n                  Docsieマネージャー にお任せください。"
+
+#: src/collaboration_software/index.html:115 src/collision_2020/index.html:132
+#: src/docsie_manager/index.html:111
+msgid "Docs for global companies."
+msgstr "グローバル企業向けの文書。"
+
+#: src/collaboration_software/index.html:116 src/docsie_manager/index.html:112
+msgid ""
+"Docsie manager comes with built-in automated translations to meet even "
+"the most rigorous enterprise\n"
+"                documentation use cases."
+msgstr "Docsieマネージャーには自動翻訳機能が内蔵されているため、最も厳しい企業文書作成条件でも\n                満たすことができます。"
+
+#: src/collaboration_software/index.html:125 src/collision_2020/index.html:142
+#: src/docsie_manager/index.html:121
+msgid "Amazing collaboration tools for busy teams"
+msgstr "多忙なチームのための素晴らしいコラボレーションツール"
+
+#: src/collaboration_software/index.html:126 src/docsie_manager/index.html:122
+msgid ""
+"Docsie allows you to collaborate with your internal and external teams by"
+" having separate permissions\n"
+"                and user management per shelf."
+msgstr "Docsieを利用すると、シェルフごとにアクセス権限を設定してユーザーを管理できるため、社内外のチームと\n                協力して取り組むことができます。"
+
+#: src/collaboration_software/index.html:139
+msgid ""
+"Better documentation starts with Docsie\n"
+"              Manager. "
+msgstr "Docsieマネージャーで\n              優れたドキュメンテーションを実現しましょう。"
+
+#: src/collision_2020/index.html:39
+msgid "Reimagine your documentation portal with "
+msgstr "文書ポータルに新たなイメージを与えましょう"
+
+#: src/collision_2020/index.html:44
+msgid "Publish dynamic docs"
+msgstr "動的文書を公開"
+
+#: src/collision_2020/index.html:48
+msgid "Version and translate docs "
+msgstr "文書のバージョン管理と翻訳"
+
+#: src/collision_2020/index.html:54
+msgid "Claim your attendee perk"
+msgstr "参加者特典を獲得"
+
+#: src/collision_2020/index.html:58
+msgid "30% yearly discount"
+msgstr "30%の年間割引"
+
+#: src/collision_2020/index.html:62
+msgid "$4500 design credit"
+msgstr "4500米ドルのデザインクレジット"
+
+#: src/collision_2020/index.html:67
+msgid "Only valid between June 23 and 25, 2020"
+msgstr "有効期限は2020年6月23日から25日までです"
+
+#: src/collision_2020/index.html:80
+msgid "Effectively collaborate with internal and external teams."
+msgstr "社内外のチームと効果的に協力して取り組むことができます。"
+
+#: src/collision_2020/index.html:83
+msgid "Discuss your documentation with built-in chat."
+msgstr "組み込みのチャット機能を使用して、文書について意見を交わすことができます。"
+
+#: src/collision_2020/index.html:115
+msgid ""
+"Docsie manager is build with entreprise docs in mind, so whether you have"
+" 1 product or 100 products.\n"
+"            Docsie manager got you covered."
+msgstr "Docsieマネージャーは企業のドキュメンテーションを念頭に作成されているので、1個でも100個の製品にでも対応できます。\n                  Docsieマネージャー にお任せください。"
+
+#: src/collision_2020/index.html:133
+msgid ""
+"Docsie manager comes with built-in automated translations to meet even "
+"the most rigorous enterprise\n"
+"            documentation use cases."
+msgstr "Docsieマネージャーには自動翻訳機能が内蔵されているため、最も厳しい企業文書作成条件でも\n                満たすことができます。"
+
+#: src/collision_2020/index.html:143
+msgid ""
+"Docsie allows you to collaborate with your internal and external teams by"
+" having separate permissions\n"
+"            and user management per shelf."
+msgstr "Docsieを利用すると、シェルフごとにアクセス権限を設定してユーザーを管理できるため、社内外のチームと\n                協力して取り組むことができます。"
+
+#: src/collision_2020/index.html:155
+msgid ""
+"Better documentation starts with Docsie\n"
+"          Manager."
+msgstr "Docsieマネージャーで\n              優れたドキュメンテーションを実現しましょう。"
+
+#: src/collision_2020/discovery_call/index.html:38
+msgid ""
+"To claim your <img\n"
+"                  "
+"src=\"https://appcdn2.docsie.io/assets/Docsie_Logo_Summit_Size_1.png\" "
+"style=\"max-width: 100%; height: 34px;\" /> documentation portal design "
+"credit and a 30% yearly discount, please book a call with our product "
+"expert."
+msgstr "<img\n                  src=\"https://appcdn2.docsie.io/assets/Docsie_Logo_Summit_Size_1.png\" style=\"max-width: 100%; height: 34px;\" />文書ポータルのデザインクレジットと30%の年間割引を獲得するには、弊社の製品専門家との電話相談を予約してください。"
+
+#: src/collision_2020/discovery_call/success/index.html:40
+msgid "Thank you for booking a discovery call with us!"
+msgstr "ディスカバリーコールをご予約いただき、ありがとうございます！"
+
+#: src/collision_2020/discovery_call/success/index.html:41
+msgid "You will receive a confirmation by email soon. 😊 "
+msgstr "間もなく確認メールが届きます。😊"
+
+#: src/collision_2020/discovery_call/success/index.html:50
+msgid "Meanwhile, check out some of our blog articles below. "
+msgstr "それまでは下記の弊社のブログ記事をご覧ください。"
+
+#: src/collision_2020/discovery_call/success/index.html:59
+#: src/docsie_manager/index.html:81
+#: src/self-writing-documentation/index.html:168
+#: src/self-writing-documentation/index.html:214
+msgid "Learn More "
+msgstr "詳細"
+
+#: src/collision_2020/discovery_call/success/index.html:68
+msgid " GatsbyJS as a blog "
+msgstr "GatsbyJS（ブログ）"
+
+#: src/collision_2020/discovery_call/success/index.html:73
+msgid ""
+"Learn\n"
+"                    More "
+msgstr "詳\n                    細"
+
+#: src/collision_2020/discovery_call/success/index.html:82
+msgid " Hosting Docsie on GitHub"
+msgstr "GitHubでのDocsieのホスティング"
+
+#: src/discovery_call/index.html:37
+msgid "Use this calendar to set-up your 15 minute Docsie demo."
+msgstr "このカレンダーを使用して、15分間のDocsieデモを設定してください。"
+
+#: src/docsie_manager/index.html:39
+msgid "Easily organize documentation with books and shelves."
+msgstr "ブックとシェルフで文書を簡単に整理できます。"
+
+#: src/docsie_manager/index.html:40
+msgid "Simplify the way your team collaborates on documentation."
+msgstr "ユーザーのチームが文書作成時に簡単に協力して取り組めるようにします。"
+
+#: src/docsie_manager/index.html:51
+msgid "Manage documentation for multiple products with ease. "
+msgstr "複数の製品の文書を簡単に管理できます。"
+
+#: src/docsie_manager/index.html:57
+msgid " Effectively collaborate with internal and external teams. "
+msgstr "社内外のチームと効果的に協力して取り組むことができます。"
+
+#: src/docsie_manager/index.html:89
+msgid "What makes Docsie Manager different?"
+msgstr "Docsieマネージャーが他のツールと違う点"
+
+#: src/docsie_manager/index.html:92
+msgid ""
+"Docsie manager is build with entreprise docs in mind, so whether you have"
+" 1 product or 100 products.\n"
+"                Docsie manager got you covered."
+msgstr "Docsieマネージャーは企業のドキュメンテーションを念頭に作成されているので、1個でも100個の製品にでも対応できます。\n                  Docsieマネージャー にお任せください。"
+
+#: src/docsie_manager/index.html:135
+msgid ""
+"Better documentation starts with Docsie\n"
+"              Manager."
+msgstr "Docsieマネージャーで\n              優れたドキュメンテーションを実現しましょう。"
+
+#: src/gather_feedback/index.html:39
+msgid "Understand your customers better."
+msgstr "顧客をさらに理解できます。"
+
+#: src/gather_feedback/index.html:40
+msgid ""
+"Collect actionable product feedback, optimize your product, keep "
+"customers happy."
+msgstr "製品への実用的なフィードバックを収集し、製品を最適化することで、顧客を満足させ続けることができます。"
+
+#: src/gather_feedback/index.html:47
+msgid "Easily Gather Meaningful Product Feedback."
+msgstr "製品への重要なフィードバックを簡単に収集できます。"
+
+#: src/gather_feedback/index.html:65
+msgid "Collect meaningful visual feedback"
+msgstr "文書のレイアウトに関する重要なフィードバックを収集できます"
+
+#: src/gather_feedback/index.html:68
+msgid "Action feedback by setting up integrations"
+msgstr "統合をセットアップして、実用的なフィードバックを収集できます"
+
+#: src/gather_feedback/index.html:71
+msgid "Understand the context behind positive and negative feedback"
+msgstr "肯定的および否定的なフィードバックの原因を把握できます"
+
+#: src/gather_feedback/index.html:83
+msgid "How is Vocally different?"
+msgstr "Vocallyが他のツールと違う点"
+
+#: src/gather_feedback/index.html:85
+msgid "Not just another survey software"
+msgstr "単なる調査ソフトウェアではありません"
+
+#: src/gather_feedback/index.html:86
+msgid ""
+"Vocally collects real time actions that your customers take on your site "
+"so that you can use that\n"
+"                information to understand the context behind customer "
+"feedback."
+msgstr "Vocallyは、ユーザーのサイト上で顧客が行う操作をリアルタイムで収集するため、\n                ユーザーはその情報を使用して顧客フィードバックの原因を把握することができます。"
+
+#: src/gather_feedback/index.html:107
+msgid ""
+"Multiple integrations to connect to your existing ticketing systems and "
+"beyond."
+msgstr "複数の統合機能で、既存のチケット発行システムなどに接続できます。"
+
+#: src/gather_feedback/index.html:108
+msgid ""
+"Integrate with all your existing ticketing systems like Zendesk, Jira, "
+"Slack and more to appropriately\n"
+"                take action on any feedback quickly and efficiently."
+msgstr "Zendesk、Jira、Slackなど既存のチケット発行システムすべてと統合し、\n                あらゆるフィードバックに対して迅速かつ効率的に適切な対策を取ることができます。"
+
+#: src/gather_feedback/index.html:116
+msgid "Understand how customers interact with your documentation using Vocally."
+msgstr "Vocallyを利用して、顧客がユーザーの文書をどのように取り扱うかを把握できます。"
+
+#: src/investors/index.html:37
+msgid "Did Docsie pique your interest?"
+msgstr "Docsieに興味を持っていただけましたか？"
+
+#: src/investors/index.html:38
+msgid ""
+"Click the <a href=\"/investors/stay_up_to_date/\" style=\"color: "
+"#b50000\">following link</a> to stay up to date on our progress.</p>\n"
+"        <p class=\"docsie-paragraph\" id=\"unstyled-"
+"b2r7t\">Alternatively, feel free schedule a quick call with the founding "
+"team using the calendar below."
+msgstr "<a href=\"/investors/stay_up_to_date/\" style=\"color: #b50000\">以下のリンク</a>をクリックして、最新の進捗状況をご確認ください。</p>\n        <p class=\"docsie-paragraph\" id=\"unstyled-b2r7t\">または、以下のカレンダーを使用して創設チームとの簡単な電話相談をご予約ください。"
+
+#: src/manager/index.html:39
+msgid "Documentation that your customers will love."
+msgstr "顧客の気に入る文書を作成できます。"
+
+#: src/publish_documentation/index.html:39
+msgid "Publish beautiful documentation."
+msgstr "レイアウトの美しい文書を公開できます。"
+
+#: src/publish_documentation/index.html:40
+msgid "Where amazing teams publish docs anywhere with one line of code."
+msgstr "1行のコードで、文書をどこにでも公開できます。"
+
+#: src/publish_documentation/index.html:46
+msgid "Publish docs anywhere."
+msgstr "文書をどこにでも公開できます。"
+
+#: src/publish_documentation/index.html:51
+msgid "Publish documentation with one line of code."
+msgstr "1行のコードで文書を公開できます。"
+
+#: src/publish_documentation/index.html:54
+msgid "Publish documentation to your secured internal corporate network."
+msgstr "安全な社内ネットワークに文書を公開できます。"
+
+#: src/publish_documentation/index.html:57
+msgid "Password protect your documentation."
+msgstr "文書をパスワードで保護できます。"
+
+#: src/publish_documentation/index.html:60
+msgid "Share documentation in multiple versions and languages."
+msgstr "複数のバージョンと言語で文書を共有できます。"
+
+#: src/publish_documentation/index.html:90
+msgid "Why publish your documentation with Docsie?"
+msgstr "Docsieで文書を公開する理由は？"
+
+#: src/publish_documentation/index.html:93
+msgid "Dynamic documentation for entreprise."
+msgstr "動的な企業文書を作成できます。"
+
+#: src/publish_documentation/index.html:94
+msgid ""
+"Publish documentation in multiple versions and languages with one simple "
+"line of code."
+msgstr "たった1行の簡単なコードで、複数のバージョン・言語で文書を公開できます。"
+
+#: src/publish_documentation/index.html:112
+msgid "Versatile publishing for all documentation use cases."
+msgstr "あらゆる種類の文書を公開できる多目的プラットフォームです。"
+
+#: src/publish_documentation/index.html:113
+msgid ""
+"Docsie allows you to publish public and private documentation to meet "
+"your security and compliance\n"
+"                needs."
+msgstr "Docsieなら公開文書と非公開文書を公開して、セキュリティとコンプライアンスのニーズを満たすことが\n                できます。"
+
+#: src/publish_documentation/index.html:123
+msgid "Secure internal docs on any intranet."
+msgstr "あらゆるイントラネット上で社内文書を保護できます。"
+
+#: src/publish_documentation/index.html:124
+msgid ""
+"Securely embed your docs on your intranet with one line of code. No "
+"servers to run, no infrastructure\n"
+"                to maintain."
+msgstr "1行のコードで、イントラネット上に文書を安全に埋め込むことができます。運用すべきサーバーも、維持すべきインフラも\n                ありません。"
+
+#: src/publish_documentation/index.html:137
+msgid ""
+"Publish your product documentation with\n"
+"              ease with Docsie Publisher."
+msgstr "Docsieパブリッシャーを使用すると、製品文書を\n              簡単に公開できます。"
+
+#: src/self-writing-documentation/index.html:4
+msgid "Docsie helps businesses translate and manage product documentation"
+msgstr "Docsieは、企業が製品文書を翻訳・管理するのに役立ちます。"
+
+#: src/self-writing-documentation/index.html:6
+#: src/self-writing-documentation/index.html:14
+#: src/self-writing-documentation/index.html:22
+msgid "Product documentation - simplified."
+msgstr "製品文書の作成が容易になります。"
+
+#: src/self-writing-documentation/index.html:8
+#: src/self-writing-documentation/index.html:16
+#: src/self-writing-documentation/index.html:27
+msgid "Docsie helps businesses translate and manage better product documentation"
+msgstr "Docsieは、企業が品質の高い製品文書を翻訳・管理するのに役立ちます。"
+
+#: src/self-writing-documentation/index.html:40
+msgid "Get product docs done "
+msgstr "製品文書を仕上げましょう"
+
+#: src/self-writing-documentation/index.html:43
+msgid "\"fast\",\"now\",\"automatically\""
+msgstr "「迅速」、「即時」、「自動」"
+
+#: src/self-writing-documentation/index.html:44
+msgid ""
+"One of a kind AI-enabled documentation writing service that creates, "
+"translates, and manages product documentation for you."
+msgstr "AI技術を搭載した文書作成サービスで、ユーザーに代わって製品文書を作成・翻訳・管理します。"
+
+#: src/self-writing-documentation/index.html:50
+msgid ""
+"Connect to a passionate community of technical writers and translators "
+"empowered by a state of art AI."
+msgstr "最先端のAI技術を利用しているテクニカルライターと翻訳者の活気溢れるコミュニティと繋がりましょう。"
+
+#: src/self-writing-documentation/index.html:53
+#: src/self-writing-documentation/index.html:62
+msgid "Effortlessly migrate over to Docsie"
+msgstr "Docsieには簡単に移行できます"
+
+#: src/self-writing-documentation/index.html:65
+msgid "Self-writing, self-maintained documentation"
+msgstr "文書の自動作成および自動維持"
+
+#: src/self-writing-documentation/index.html:68
+msgid "Bring your updated documentation to international markets faster"
+msgstr "更新された文書を迅速に国際市場に公開できます"
+
+#: src/self-writing-documentation/index.html:71
+msgid "Reduce your technical writing and translation costs"
+msgstr "技術文書の作成と翻訳にかかる費用を減らすことができます"
+
+#: src/self-writing-documentation/index.html:108
+msgid ""
+"Simplified service that helps you quickly publish custom product "
+"documentation hubs that mirror your brands' look and feel."
+msgstr "ブランドのイメージを反映した、カスタムの製品文書ハブを迅速に公開できるようにするシンプルなサービスです。"
+
+#: src/self-writing-documentation/index.html:122
+msgid "Trusted by over 5000 business and technology users. 😎"
+msgstr "5000以上の企業やテクノロジーユーザーから信頼されています。😎"
+
+#: src/self-writing-documentation/pricing/index.html:16
+msgid "Self-Writing Docs"
+msgstr "自動文書作成"
+
+#: src/self-writing-documentation/pricing/index.html:17
+msgid "Reduce time and money spent on technical writing and translation."
+msgstr "技術文書の作成と翻訳にかかる時間と費用を減らすことができます。"
+
+#: src/self-writing-documentation/pricing/index.html:26
+msgid "AI-Writer"
+msgstr "AIライター"
+
+#: src/self-writing-documentation/pricing/index.html:28
+msgid ""
+"If you are an up and coming start-up with a fantastic software product "
+"that needs docs fast, then this is a plan for you."
+msgstr "このプランは、迅速な文書処理を必要とする優れたソフトウェア製品を提供している将来有望な新興企業に適しています。"
+
+#: src/self-writing-documentation/pricing/index.html:34
+msgid " Book a Discovery "
+msgstr "ディスカバリーを予約"
+
+#: src/self-writing-documentation/pricing/index.html:38
+msgid "Docs written, translated and published for you"
+msgstr "ユーザーに代わって文書を作成・翻訳・公開します"
+
+#: src/self-writing-documentation/pricing/index.html:39
+msgid "Up to four documentation books"
+msgstr "最大4つの文書ブック"
+
+#: src/self-writing-documentation/pricing/index.html:40
+msgid "Up to 3 revisions per month"
+msgstr "1ヵ月あたり最大3回の改訂"
+
+#: src/self-writing-documentation/pricing/index.html:41
+msgid "Docs translated into one additional language (up to 10,000 words per book)"
+msgstr "文書を1つの追加言語に翻訳可能（1ブックあたり最大1万単語）"
+
+#: src/self-writing-documentation/pricing/index.html:42
+msgid "Docs styled for you"
+msgstr "ユーザーのスタイルに合わせて文書を作成します"
+
+#: src/self-writing-documentation/pricing/index.html:43
+msgid "Custom CSS to match your brands look and feel"
+msgstr "ブランドのイメージに合わせたカスタムCSS"
+
+#: src/self-writing-documentation/pricing/index.html:44
+#: src/self-writing-documentation/pricing/index.html:299
+msgid "Google Analytics"
+msgstr "Googleアナリティクス"
+
+#: src/self-writing-documentation/pricing/index.html:45
+#: src/self-writing-documentation/pricing/index.html:293
+msgid "See how your users interact with your docs using Docsie Vocally"
+msgstr "Docsie Vocallyを利用して、顧客がユーザーの文書をどのように取り扱うかを把握できます"
+
+#: src/self-writing-documentation/pricing/index.html:46
+msgid "Custom documentation landing page with custom design"
+msgstr "カスタムのデザインを利用して、文書のランディングページをカスタマイズ可能"
+
+#: src/self-writing-documentation/pricing/index.html:47
+msgid "Search functionality for documentation articles"
+msgstr "文書の記事を検索する機能"
+
+#: src/self-writing-documentation/pricing/index.html:48
+msgid "Complimentary documentation import"
+msgstr "無料で文書をインポート可能"
+
+#: src/self-writing-documentation/pricing/index.html:57
+msgid "Try for free"
+msgstr "無料で試す"
+
+#: src/self-writing-documentation/pricing/index.html:66
+msgid "AI-Writer Plus"
+msgstr "AIライタープラス"
+
+#: src/self-writing-documentation/pricing/index.html:68
+msgid ""
+"If you are a growing software business that needs to translate and "
+"maintain multiple versions of your product docs, then this is a plan for "
+"you."
+msgstr "このプランは、複数バージョンの製品文書を翻訳・管理する必要がある成長中のソフトウェア会社に適しています。"
+
+#: src/self-writing-documentation/pricing/index.html:78
+msgid "All the benefits of Start-up, and:"
+msgstr "新興企業向けプランの全ての利点："
+
+#: src/self-writing-documentation/pricing/index.html:79
+msgid "Up to 20 documentation books"
+msgstr "最大20つの文書ブック"
+
+#: src/self-writing-documentation/pricing/index.html:80
+msgid "Up to 3 translations(up to 15,000 words per book)"
+msgstr "最大3つの翻訳文書（1ブックあたり最大15,000単語）"
+
+#: src/self-writing-documentation/pricing/index.html:81
+msgid "Up to 10 revisions per month"
+msgstr "1ヵ月あたり最大10回の改訂"
+
+#: src/self-writing-documentation/pricing/index.html:82
+msgid "Password protect book/Password protect shelves"
+msgstr "ブック/シェルフをパスワードで保護"
+
+#: src/self-writing-documentation/pricing/index.html:83
+msgid "Define your own design/style-sheet for published documentation"
+msgstr "独自のデザイン/スタイルシートを定義して文書を公開できます"
+
+#: src/self-writing-documentation/pricing/index.html:84
+msgid "Use Custom Javascript"
+msgstr "カスタムJavaScriptを使用可能"
+
+#: src/self-writing-documentation/pricing/index.html:85
+#: src/self-writing-documentation/pricing/index.html:281
+msgid ""
+"Adapt the layout of the documentation site according to the requirements "
+"of your UX department"
+msgstr "ユーザーのUX部門の要件に合わせて文書サイトのレイアウトを調整可能"
+
+#: src/self-writing-documentation/pricing/index.html:94
+msgid "Book a Discovery"
+msgstr "ディスカバリーを予約"
+
+#: src/self-writing-documentation/pricing/index.html:103
+msgid "AI-Writer Entreprise"
+msgstr "AIライターエンタープライズ"
+
+#: src/self-writing-documentation/pricing/index.html:105
+msgid ""
+"If you are an established software company with complicated security, "
+"authentication, and customization requirements, then this is a plan for "
+"you."
+msgstr "このプランは、セキュリティ、認証、カスタマイズ条件が複雑な大手のソフトウェア会社に適しています。"
+
+#: src/self-writing-documentation/pricing/index.html:111
+msgid "Sales"
+msgstr "販売部"
+
+#: src/self-writing-documentation/pricing/index.html:115
+msgid "All the benefits of Business, and:"
+msgstr "ビジネス向けプランの全ての利点："
+
+#: src/self-writing-documentation/pricing/index.html:116
+msgid "Unlimited books and shelves"
+msgstr "無制限のブックとシェルフ"
+
+#: src/self-writing-documentation/pricing/index.html:117
+msgid "Starting from 50 Revisions per month"
+msgstr "1ヵ月あたり最大50回の改訂"
+
+#: src/self-writing-documentation/pricing/index.html:118
+msgid "Translations into 7 languages (up to 25,000 words each book)"
+msgstr "7言語に翻訳可能（1ブックあたり最大25,000単語）"
+
+#: src/self-writing-documentation/pricing/index.html:119
+msgid "Integrate published documentation with your IAM"
+msgstr "公開済み文書をIAMと統合可能"
+
+#: src/self-writing-documentation/pricing/index.html:120
+msgid "Integrate Docsie backend with internal SSO server"
+msgstr "Docsieのバックエンドを社内のSSOサーバーと統合可能"
+
+#: src/self-writing-documentation/pricing/index.html:121
+msgid "Docsie hosted on your own infrastructure for GDPR and Security compliance<"
+msgstr "GDPRおよびセキュリティのコンプライアンス用に、独自のインフラでDocsieをホスティング可能<"
+
+#: src/self-writing-documentation/pricing/index.html:130
+#: src/self-writing-documentation/pricing/index.html:334
+msgid "Contact sales"
+msgstr "販売部へのお問い合わせ"
+
+#: src/self-writing-documentation/pricing/index.html:146
+msgid "Small Team"
+msgstr "小規模チーム"
+
+#: src/self-writing-documentation/pricing/index.html:148
+msgid "Business"
+msgstr "ビジネス"
+
+#: src/self-writing-documentation/pricing/index.html:150
+msgid "Entreprise"
+msgstr "エンタープライズ"
+
+#: src/self-writing-documentation/pricing/index.html:161
+msgid "Maximum maintained Books"
+msgstr "維持可能な最大ブック数"
+
+#: src/self-writing-documentation/pricing/index.html:167
+msgid "Docs written for you"
+msgstr "ユーザーに代わって文書を作成"
+
+#: src/self-writing-documentation/pricing/index.html:173
+msgid "Docs maintained and kept up to date for you"
+msgstr "ユーザーに代わって文書を維持し、最新の状態に保つ"
+
+#: src/self-writing-documentation/pricing/index.html:179
+msgid "User Guides"
+msgstr "利用者用ガイド"
+
+#: src/self-writing-documentation/pricing/index.html:185
+msgid "Product Manuals"
+msgstr "製品マニュアル"
+
+#: src/self-writing-documentation/pricing/index.html:191
+msgid "Integration Documentation"
+msgstr "統合文書"
+
+#: src/self-writing-documentation/pricing/index.html:197
+msgid "API Docs from Swagger"
+msgstr "SwaggerのAPI文書"
+
+#: src/self-writing-documentation/pricing/index.html:203
+msgid "Training Documentation"
+msgstr "研修用文書"
+
+#: src/self-writing-documentation/pricing/index.html:209
+msgid "Max Words per Book"
+msgstr "ブックあたりの最大単語数"
+
+#: src/self-writing-documentation/pricing/index.html:215
+msgid "Cost per additional 1,000 words"
+msgstr "1000単語あたりの追加コスト"
+
+#: src/self-writing-documentation/pricing/index.html:221
+msgid "AI Powered Translation"
+msgstr "AIを利用した翻訳"
+
+#: src/self-writing-documentation/pricing/index.html:227
+msgid "Languages"
+msgstr "言語"
+
+#: src/self-writing-documentation/pricing/index.html:233
+msgid "Translation kept up to date"
+msgstr "翻訳文書を最新版に維持"
+
+#: src/self-writing-documentation/pricing/index.html:239
+msgid "Max translated words per book"
+msgstr "1ブックあたりの翻訳可能な最大単語数"
+
+#: src/self-writing-documentation/pricing/index.html:245
+msgid "Cost per additional 1000 translated words"
+msgstr "1000単語あたりの追加翻訳コスト"
+
+#: src/self-writing-documentation/pricing/index.html:251
+msgid "Publishing"
+msgstr "公開"
+
+#: src/self-writing-documentation/pricing/index.html:257
+msgid "Documentation Hub"
+msgstr "文書ハブ"
+
+#: src/self-writing-documentation/pricing/index.html:263
+msgid "Searchable Documentation"
+msgstr "検索可能な文書"
+
+#: src/self-writing-documentation/pricing/index.html:269
+msgid "Documentation styled to match your brand's look and feel"
+msgstr "ブランドのイメージに合わせた文書のスタイルを調整可能"
+
+#: src/self-writing-documentation/pricing/index.html:275
+msgid "Define our own design / style-sheet for published documentation"
+msgstr "独自のデザイン/スタイルシートを定義して文書を公開"
+
+#: src/self-writing-documentation/pricing/index.html:287
+msgid "Self-Service"
+msgstr "自動サービス"
+
+#: src/self-writing-documentation/pricing/index.html:305
+msgid "Security and Compliance"
+msgstr "セキュリティとコンプライアンス"
+
+#: src/self-writing-documentation/pricing/index.html:311
+msgid "Docsie hosted on your infrastructure for GDPR and Security compliance."
+msgstr "GDPRおよびセキュリティのコンプライアンス用に、独自のインフラでDocsieをホスティング可能。"
+
+#: src/self-writing-documentation/pricing/index.html:317
+msgid "Integrate Docsie backend with the internal SSO server."
+msgstr "Docsieのバックエンドを社内のSSOサーバーと統合可能。"
+
+#: src/self-writing-documentation/pricing/index.html:323
+msgid "Integrate published documentation site with your IAM."
+msgstr "公開済み文書をIAMと統合可能。"
+
+#: src/self-writing-documentation/pricing/index.html:332
+msgid "Talk to Us"
+msgstr "お問い合わせ先"
+
