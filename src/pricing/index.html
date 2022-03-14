@@ -1,220 +1,166 @@
-{% extends "_base.html" %}
-{% block title %}{% trans %}Create documentation that your customers love{% endtrans %}{% endblock title %}
-{% block description %}{% trans %}Save time and retain customers, write, translate and manage better product documentation with Docsie{% endtrans %}{% endblock description %}
-{% block shareimage %}https://www.docsie.io/assets/share-image.jpeg{% endblock shareimage %}{% block styles %}
-<link rel="stylesheet" href='/pricing.css'>
-<link rel="stylesheet" href='/docsie.css'>
-{% endblock styles %}
-
-
-
-{% block content %}
+{% extends "_base.html" %} {% block title %}{% trans %}Create documentation that
+your customers love{% endtrans %}{% endblock title %} {% block description %}{%
+trans %}Save time and retain customers, write, translate and manage better
+product documentation with Docsie{% endtrans %}{% endblock description %} {%
+block shareimage %}https://www.docsie.io/assets/share-image.jpeg{% endblock
+shareimage %}{% block styles %}
+<link rel="stylesheet" href="/pricing.css" />
+<link rel="stylesheet" href="/docsie.css" />
+{% endblock styles %} {% block content %}
 <!--<script>window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 7439277,playbookUuid: 'de0ebea2-8e31-4549-a66c-98b6ed822be0',version: 2};</script><script src="https://leadbooster-chat.pipedrive.com/assets/loader.js" async></script>-->
 
 <main id="main">
-  <div class="pure-docsie ready gn" style="max-width: 100%;">
+  <div class="pure-docsie ready gn" style="max-width: 100%">
     <article class="docsie-doc">
       <div class="docsie-content">
         <header class="docsie-header docsie-grid" id="section-page-header">
           <div class="docsie-section-container" role="presentation">
-            <h1 class="docsie-title">{% trans %}Hire remote scalable teams.{% endtrans %}<br/>{% trans %}Grow Faster.{% endtrans %}</h1>
-            <p class="docsie-subtitle">{% trans %}Get high quality off-shore and nearshore DEV and QA resources at a fixed cost.{% endtrans %}</p>
+            <h1 class="docsie-title">
+              {% trans %}Hire remote scalable teams.{% endtrans %}<br />{% trans
+              %}Grow Faster.{% endtrans %}
+            </h1>
+            <p class="docsie-subtitle">
+              {% trans %}Get high quality off-shore and nearshore DEV and QA
+              resources at a fixed cost.{% endtrans %}
+            </p>
           </div>
-
         </header>
-        <section class="docsie-section docsie-grid grid-3 docsie-pricing-table">
+        <section class="docsie-section docsie-grid grid-1 docsie-pricing-table">
           <div class="docsie-section-container" role="presentation">
-
-                        <div class="docsie-grid-cell docsie-price-tier">
-              <div class="docsie-card">
-
+            <div class="docsie-grid-cell docsie-price-tier">
+              <div class="docsie-card docsie-card-horizontal">
                 <div>
-             <p class="tier-price">
-                    $0 USD
+                  <h3>
+                    {% trans %}Free System Architecture Session{% endtrans %}
+                  </h3>
+                  <p>
+                    {% trans %}Get our solution architect on the call to help
+                    estimate your project {% endtrans %}
                   </p>
-                              <p class="meta">
-            {% trans %}Forever free{% endtrans %} <br>
-              {% trans %}🎉🎉🎉🎉{% endtrans %}
-             </p>
-            <img src="https://www.docsie.io/assets/prcing/Startup.svg" width="150em" height="300em" alt="start-up plan">
-
-                  <h3>{% trans %}Free System Architecture Session{% endtrans %}</h3>
-                  <p class="meta">
-                    {% trans %}Get our solution architect on the call to help estimate your project {% endtrans %}
-                </p>
                 </div>
-                <div class="tier-description"  font-size="1em">
-                  <p class="hide-sm">
-                    <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
-                     {% trans %}Talk to Us Now{% endtrans %}
-                    </a>
-                  </p>
-                  <ul class="tier-description">
-                    A great place to start <br>
-                <br>  ✔️1 free solution design session <br>
-                <br>  ✔️System Architecture Diagram <br>
-                 <br> ✔️Free Time, Cost and Effort Estimate  <br>
-                 <br>  ✔️Free Cost Optimization Consultation <br>
-                 <br>  ✔️Free Project Plan <br>
-                 <br> ✔️1 free additional clarification session <br>
-
-                  </ul>
-                </div>
-                <!--<p class="tier-footer hide-sm">-->
-                  <!--<a href="#docsiePricing">Learn More <svg class="inl" width="22" height="22" viewBox="0 0 20 20">-->
-                      <!--<use xlink:href="#icon-arrow-right"></use></svg></a>-->
-                <!--</p>-->
-                <p class="show-sm">
-                  <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
+                <div>
+                  <a
+                    class="ui-bt ui-prime"
+                    href="https://app.docsie.io/onboarding/"
+                  >
                     {% trans %}Talk to Us Now{% endtrans %}
                   </a>
-                </p>
+                </div>
               </div>
             </div>
-
-
-                        <div class="docsie-grid-cell docsie-price-tier">
+          </div>
+        </section>
+        <section class="docsie-section docsie-grid grid-4 docsie-pricing-table">
+          <div class="docsie-section-container" role="presentation">
+            <div class="docsie-grid-cell docsie-price-tier">
               <div class="docsie-card">
-                <div>
-                               <p class="tier-price">
-                     32$/h <br>
-                  </p>   <br>
-               <p class="meta">
-            {% trans %}or $ 4700 USD per resource/ per month billed annually{% endtrans %}
-             </p>
-                                <img src="https://www.docsie.io/assets/prcing/StartupPlus.svg" width="150em" height="300em" alt="start-up plan">
-
-
-                  <h3>{% trans %}Off-Shore Agile Pod{% endtrans %}</h3>
-                  <p class="meta">
-
-                    {% trans %}From 4 resources, volume discounts*{% endtrans %}
-
-                </p>
-                </div>
-                <div class="tier-description">
+                <div class="tier-head">
+                  <h3 class="docsie-card-title">
+                    {% trans %}Off-Shore Agile Pod{% endtrans %}
+                  </h3>
+                  <p class="tier-price">$32/h</p>
+                  <div class="tier-description">
+                    <p class="meta">
+                      {% trans %}or just <b>$4700 USD</b> per resource / per
+                      month billed annually{% endtrans %}
+                    </p>
+                    <p class="meta">
+                      {% trans %}From 4 resources, volume discounts*{% endtrans
+                      %}
+                    </p>
+                  </div>
                   <p class="hide-sm">
-                    <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
-                     {% trans %}Get Free Estimate{% endtrans %}
+                    <a
+                      class="ui-bt ui-prime"
+                      href="https://app.docsie.io/onboarding/"
+                    >
+                      {% trans %}Get Free Estimate{% endtrans %}
                     </a>
                   </p>
+                </div>
+                <div class="tier-description">
+                  <h4>
+                    Great for Companies who need to ramp up a scalable off-shore
+                    team fast and on a budget.
+                  </h4>
                   <ul class="tier-description">
-                    Great for Companies who need to ramp up a scalable off-shore team fast and on a budget.
-                      <br>
-                <br>  ✔️Fast Ramp-up <br>
-                <br>  ✔️Fully Agile pod Includes QA, 2 Dev's and a Dev Lead <br>
-                <br>  ✔️40 hours per resource week <br>
-                <br>  ✔️Daily Status Reporting <br>
-                <br>  ✔️Proven expertise in your tech stack  <br>
-                <br>  ✔️Free BSA*  <br>
-                 <br> ✔️Free replacement*  <br>
-                 <br> ✔️Weekly Steering Call <br>
-                 <br> ✔️Bi-Weekly Sprint Demo <br>
-                 <br> ✔️Dedicated project delivery manager / scrum master <br>
-                 <br> ✔️Pay per additional architectural/requirements change <br>
+                    <li>Fast Ramp-up</li>
+                    <li>Fully Agile pod Includes QA, 2 Dev's and a Dev Lead</li>
+                    <li>40 hours per resource week</li>
+                    <li>Daily Status Reporting</li>
+                    <li>Proven expertise in your tech stack</li>
+                    <li>Free BSA*</li>
+                    <li>Free replacement*</li>
+                    <li>Weekly Steering Call</li>
+                    <li>Bi-Weekly Sprint Demo</li>
+                    <li>Dedicated project delivery manager / scrum master</li>
+                    <li>
+                      Pay per additional architectural/requirements change
+                    </li>
                   </ul>
                 </div>
-                <!--<p class="tier-footer hide-sm">-->
-                  <!--<a href="#docsiePricing">Learn More <svg class="inl" width="22" height="22" viewBox="0 0 20 20">-->
-                      <!--<use xlink:href="#icon-arrow-right"></use></svg></a>-->
-                <!--</p>-->
                 <p class="show-sm">
-                  <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
+                  <a
+                    class="ui-bt ui-prime"
+                    href="https://app.docsie.io/onboarding/"
+                  >
                     {% trans %}Get Free Estimate{% endtrans %}
                   </a>
                 </p>
               </div>
             </div>
 
-
             <div class="docsie-grid-cell docsie-price-tier">
               <div class="docsie-card">
-                <div>
-                               <p class="tier-price">
-                    42$/h or <br> $6500 USD/mo <br>
-                  </p>
-               <p class="meta">
-            {% trans %}per resource/ per month or $5900 per resource/ per month billed annually {% endtrans %}
-             </p>
-                                                    <img src="https://www.docsie.io/assets/prcing/Small_Team.svg" width="150em" height="300em" alt="start-up plan">
-
-
-                  <h3>{% trans %}Near-Shore/Offshore Hybrid{% endtrans %}</h3>
-                  <p class="meta">
-                    {% trans %}From 4 resources, volume discounts*{% endtrans %}
-                </p>
-                </div>
-                <div class="tier-description">
+                <div class="tier-head">
+                  <h3 class="docsie-card-title">
+                    {% trans %}Near-Shore/Offshore Hybrid{% endtrans %}
+                  </h3>
+                  <p class="tier-price">$42/h</p>
+                  <div class="tier-description">
+                    <p class="meta">
+                      {% trans %}or just <b>$6500 USD/mo</b> per resource, or
+                      <b>$5900 USD/mo</b> per resource, billed annually {%
+                      endtrans %}
+                    </p>
+                    <p class="meta">
+                      {% trans %}From 4 resources, volume discounts*{% endtrans
+                      %}
+                    </p>
+                  </div>
                   <p class="hide-sm">
-                    <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
-                     {% trans %}Talk to Us Now{% endtrans %}
-                    </a>
-                  </p>
-                  <ul class="tier-description">
-                    Great balance between cost and avaliability
-                 <br> <br>  ✔️All benefits of Off-Shore Agile Pod<br>
-                      <br>  ✔️At least one guranteed near-shore resource (Based on avaliability) <br>
-                      <br>  ✔️At least one Free Co-Op Resource (Based on avaliability) <br>
-                      <br>  ✔️5 Free architecture/requirements revisions per project <br>
-                      <br>  ✔️Free Dev-Ops set-up and deployment <br>
-                      <br>  ✔️Free Cloud Cost Planning <br>
-                      <br>  ✔️Free Cloud Cost Optimization <br>
-
-                  </ul>
-                </div>
-                <!--<p class="tier-footer hide-sm">-->
-                  <!--<a href="#docsiePricing">Learn More <svg class="inl" width="22" height="22" viewBox="0 0 20 20">-->
-                      <!--<use xlink:href="#icon-arrow-right"></use></svg></a>-->
-                <!--</p>-->
-                <p class="show-sm">
-                  <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
-                    {% trans %}Talk to Us Now{% endtrans %}
-                  </a>
-                </p>
-              </div>
-            </div>
-
-            <div class="docsie-grid-cell docsie-price-tier">
-              <div class="docsie-card">
-                <div>
-            <p class="tier-price">
-                     52$/h <br> or $8500 USD/mo <br>
-                  </p>
-               <p class="meta">
-            {% trans %}per resource/ per month or $8000 per resource/ per month billed annually{% endtrans %}
-             </p>
-                                                    <img src="https://www.docsie.io/assets/prcing/Business.svg" width="150em" height="300em" alt="start-up plan">
-
-
-                  <h3>{% trans %}Dedicated Near-Shore Pod{% endtrans %}</h3>
-                  <p class="meta">
-                    {% trans %}From 4 resources, volume discounts*{% endtrans %}
-                  </p>
-                </div>
-                <div class="tier-description">
-                  <p class="hide-sm">
-                    <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
+                    <a
+                      class="ui-bt ui-prime"
+                      href="https://app.docsie.io/onboarding/"
+                    >
                       {% trans %}Talk to Us Now{% endtrans %}
                     </a>
                   </p>
+                </div>
+                <div class="tier-description">
+                  <h4>Great balance between cost and avaliability</h4>
                   <ul class="tier-description">
-                    Phenomenal for teams with lot's of docs, needing a useful way to manage them.
-                 <br> <br>  ✔️All benefits of Near-Shore/Offshore Hybrid Pod<br>
-                <br>  ✔️Dedicated english speaking team from Canada <br>
-                <br>  ✔️At least one free co-op resource <br>
-                <br>  ✔️Free Archicture/Requirement Revisions <br>
-                <br>  ✔️Whole Team on your slack/teams <br>
-                <br>  ✔️Whole Team attends your daily scrums <br>
-                <br>  ✔️Free product management/marketing automation services <br>
-
+                    <li>All benefits of Off-Shore Agile Pod</li>
+                    <li>
+                      At least one guranteed near-shore resource (Based on
+                      avaliability)
+                    </li>
+                    <li>
+                      At least one Free Co-Op Resource (Based on avaliability)
+                    </li>
+                    <li>
+                      5 Free architecture/requirements revisions per project
+                    </li>
+                    <li>Free Dev-Ops set-up and deployment</li>
+                    <li>Free Cloud Cost Planning</li>
+                    <li>Free Cloud Cost Optimization</li>
                   </ul>
                 </div>
-                <!--<p class="tier-footer hide-sm">-->
-                  <!--<a href="#docsiePricing">Learn More <svg class="inl" width="22" height="22" viewBox="0 0 20 20">-->
-                      <!--<use xlink:href="#icon-arrow-right"></use></svg></a>-->
-                <!--</p>-->
                 <p class="show-sm">
-                  <a class="ui-bt ui-prime" href="https://app.docsie.io/onboarding/">
+                  <a
+                    class="ui-bt ui-prime"
+                    href="https://app.docsie.io/onboarding/"
+                  >
                     {% trans %}Talk to Us Now{% endtrans %}
                   </a>
                 </p>
@@ -223,56 +169,108 @@
 
             <div class="docsie-grid-cell docsie-price-tier">
               <div class="docsie-card">
-              <div>
-               <p class="meta">
-             </p>
-                              <img src="https://www.docsie.io/assets/prcing/Organization.svg" width="250em" alt="start-up plan">
-
-                <h3>{% trans %}Large Implementation{% endtrans %}</h3>
-                <p class="meta tier-description">
-                  {% trans %}If you have a complex program/project that requires top tier elite delivery teams{% endtrans %}
-
-                </p>
-              </div>
-              <div class="tier-description">
-                <p class="hide-sm">
-                  <a class="ui-bt ui-prime" href="https://www.docsie.io/demo/">
-                    {% trans %}Contact Sales{% endtrans %}
+                <div class="tier-head">
+                  <h3 class="docsie-card-title">
+                    {% trans %}Dedicated Near-Shore Pod{% endtrans %}
+                  </h3>
+                  <p class="tier-price">$52/h</p>
+                  <div class="tier-description">
+                    <p class="meta">
+                      {% trans %}or just <b>$8500 USD/mo</b> per resource, or
+                      $8000 per resource, billed annually{% endtrans %}
+                    </p>
+                    <p class="meta">
+                      {% trans %}From 4 resources, volume discounts*{% endtrans
+                      %}
+                    </p>
+                  </div>
+                  <p class="hide-sm">
+                    <a
+                      class="ui-bt ui-prime"
+                      href="https://app.docsie.io/onboarding/"
+                    >
+                      {% trans %}Talk to Us Now{% endtrans %}
+                    </a>
+                  </p>
+                </div>
+                <div class="tier-description">
+                  <h4>
+                    Phenomenal for teams with lot's of docs, needing a useful
+                    way to manage them.
+                  </h4>
+                  <ul class="tier-description">
+                    <li>All benefits of Near-Shore/Offshore Hybrid Pod</li>
+                    <li>Dedicated english speaking team from Canada</li>
+                    <li>At least one free co-op resource</li>
+                    <li>Free Archicture/Requirement Revisions</li>
+                    <li>Whole Team on your slack/teams</li>
+                    <li>Whole Team attends your daily scrums</li>
+                    <li>
+                      Free product management/marketing automation services
+                    </li>
+                  </ul>
+                </div>
+                <p class="show-sm">
+                  <a
+                    class="ui-bt ui-prime"
+                    href="https://app.docsie.io/onboarding/"
+                  >
+                    {% trans %}Talk to Us Now{% endtrans %}
                   </a>
                 </p>
-                <ul class="tier-description">
-            <br>  ✔️ Hybrid teams to support Multi-Vendor Programs <br>
-            <br>  ✔️ Adherence to predefined fixed program schedule <br>
-            <br>  ✔️ Custom Statement of Work <br>
-            <br>  ✔️ Quick resource ramp up  <br>
-            <br>  ✔️ At least One Dedicated Program Director <br>
-
-
-                </ul>
               </div>
-                <!--<p class="tier-footer hide-sm">-->
-                  <!--<a href="#docsiePricing">Learn More <svg class="inl" width="22" height="22" viewBox="0 0 20 20">-->
-                      <!--<use xlink:href="#icon-arrow-right"></use></svg></a>-->
-                <!--</p>-->
+            </div>
+
+            <div class="docsie-grid-cell docsie-price-tier">
+              <div class="docsie-card">
+                <div class="">
+                  <h3 class="docsie-card-title">
+                    {% trans %}Large Implementation{% endtrans %}
+                  </h3>
+                </div>
+                <div class="tier-description">
+                  <h4>
+                    {% trans %}If you have a complex program/project that
+                    requires top tier elite delivery teams{% endtrans %}
+                  </h4>
+                  <p class="hide-sm">
+                    <a
+                      class="ui-bt ui-prime"
+                      href="https://calendly.com/docsie-io/discovery-call"
+                    >
+                      {% trans %}Talk To Us Now{% endtrans %}
+                    </a>
+                  </p>
+                  <ul class="tier-description">
+                    <li>Hybrid teams to support Multi-Vendor Programs</li>
+                    <li>Adherence to predefined fixed program schedule</li>
+                    <li>Custom Statement of Work</li>
+                    <li>Quick resource ramp up</li>
+                    <li>At least One Dedicated Program Director</li>
+                  </ul>
+                </div>
                 <p class="show-sm">
-                  <a class="ui-bt ui-prime" href="https://calendly.com/docsie-io/discovery-call">
+                  <a
+                    class="ui-bt ui-prime"
+                    href="https://calendly.com/docsie-io/discovery-call"
+                  >
                     {% trans %}Talk To Us Now{% endtrans %}
                   </a>
                 </p>
               </div>
             </div>
-
           </div>
         </section>
-
       </div>
     </article>
   </div>
-  <br><br><br><br>
   <div role="presentation" data-ddsroot></div>
 </main>
-{% endblock content %}
-{% block scripts %}
-<script async type="text/javascript" src="https://lib.docsie.io/1.4.10/service.js"
-  data-docsie="live_pk_6Y24rR0t7GWA6yo6cdSwZ8q3:boo_CQIeD5drM0TCIxdfB,navigation:false,footer:false,sectionAnchor:false,viewportWidth:100%"></script>
+{% endblock content %} {% block scripts %}
+<script
+  async
+  type="text/javascript"
+  src="https://lib.docsie.io/1.4.10/service.js"
+  data-docsie="live_pk_6Y24rR0t7GWA6yo6cdSwZ8q3:boo_CQIeD5drM0TCIxdfB,navigation:false,footer:false,sectionAnchor:false,viewportWidth:100%"
+></script>
 {% endblock scripts %}
